@@ -11,6 +11,9 @@ What I included? Check inside folders
 - JS (Some case Vue.js)
 Not every project has these some have only controllers, some have controllers and livewire components and so on...
 
+## A clipborad management API project
+A API based project for clipboard management cross platform app. I use [Sanctum](https://laravel.com/docs/8.x/sanctum) for mobile/desktop devices authentication. 
+
 ## Internal Event Management CMS
 APIs build in Laravel and frontend build in Vue.js checkout controllers and vue components.  
 
